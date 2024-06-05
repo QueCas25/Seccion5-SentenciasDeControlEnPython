@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45bf1398-8954-451e-bb4b-6acb4b20bb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Seccion5-SentenciasDeControlEnPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalcularEstaciondelAño.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio-ConversionNumeroATexto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio-EtapaDeLaVida.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfElse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfElseSimplificada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModoDebug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaDeCalificaciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verificarEsto.py" afterDir="false" />
-    </list>
+    <list default="true" id="45bf1398-8954-451e-bb4b-6acb4b20bb70" name="Changes" comment="Sentencias de control, if, ifelse, ifelifelse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/QueCas25/Seccion5-SentenciasDeControlEnPython.git",
+    "accountId": "1798ab3c-f339-4795-83ef-c1631fc62e65"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -208,7 +199,31 @@
       <option name="presentableId" value="Default" />
       <updated>1717616205694</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sentencias de control, if, ifelse, ifelifelse">
+      <option name="closed" value="true" />
+      <created>1717622783245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717622783245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sentencias de control, if, ifelse, ifelifelse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sentencias de control, if, ifelse, ifelifelse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -225,7 +240,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SistemaDeCalificaciones.py</url>
-          <line>29</line>
+          <line>31</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
