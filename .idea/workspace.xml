@@ -13,33 +13,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/QueCas25/Seccion5-SentenciasDeControlEnPython.git",
-    "accountId": "1798ab3c-f339-4795-83ef-c1631fc62e65"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;QueCas25&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/QueCas25/Seccion5-SentenciasDeControlEnPython.git&quot;,
+    &quot;accountId&quot;: &quot;1798ab3c-f339-4795-83ef-c1631fc62e65&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hTRiGklcADjytoIgALD9bDZxio" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.CalcularEstaciondelAño.executor": "Run",
-    "Python.Ejercicio-ConversionNumeroATexto.executor": "Run",
-    "Python.Ejercicio-EtapaDeLaVida.executor": "Run",
-    "Python.IfElse (1).executor": "Run",
-    "Python.ModoDebug.executor": "Debug",
-    "Python.SistemaDeCalificaciones.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CalcularEstaciondelAño.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-ConversionNumeroATexto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-EtapaDeLaVida.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfElse (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModoDebug.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.SistemaDeCalificaciones.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Python/Seccion2-VariablesEnPython&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.SistemaDeCalificaciones">
     <configuration name="CalcularEstaciondelAño" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Seccion5-SentenciasDeControlEnPython" />
@@ -207,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717622783245</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sentencias de control, if, ifelse, ifelifelse">
+      <option name="closed" value="true" />
+      <created>1717623106086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717623106086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
